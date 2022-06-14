@@ -1,4 +1,6 @@
-# HydroSwap Smartcontracts
+<p align="center"><img src="https://github.com/HydroBlockchain/brand-kit/blob/main/hydroswap-logo.png?raw=true">
+
+## HydroSwap Smartcontracts
 
 ## Deployment of HydroRouter.sol
 
